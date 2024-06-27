@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "java",
+            "request": "launch",
+            "mainClass": "java",
+            "projectName": "web development_93557e9d"
+        },
+        {
+            "type": "java",
+            "name": "kathir",
+            "request": "launch",
+            "mainClass": "kathir",
+            "projectName": ""
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\Kathiravan\\Documents\\web development\\HTML\\mordian painting project\\index.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/HTML/11.0 Bootstrap Intro/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/HTML/11.0 Bootstrap Intro/index.html"
+        }
+    ]
+}

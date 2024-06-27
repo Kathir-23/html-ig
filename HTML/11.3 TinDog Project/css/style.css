@@ -1,0 +1,29 @@
+.gradient-background {
+  background: linear-gradient(300deg, #065c79, #01cf3134, #ef72ce);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
+https://as-images.apple.com/is/store-card-50-applecare-202405?wid=960&amp;hei=1000&amp;fmt=p-jpg&amp;qlt=95&amp;.v=1713313285056&fp=4668&origindomain=as-images.apple.com
